@@ -1,14 +1,14 @@
 {
-  "name": "demo",
+  "name": "verceltest",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Valeriano Filipe",
   "type": "module",
   "main": "index.js",
   "scripts": {
 	"dev": "next dev",
-	"test": "echo \"Error: no test specified\" && exit 1"
+	"build": "next dev"
   },
   "dependencies": {
     "next": "^13.1.6",
