@@ -4,7 +4,7 @@
 	"description": "",
 	"license": "MIT",
 	"author": "Valeriano Filipe",
-	"type": "module",
+	"type": "commonjs",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev"
